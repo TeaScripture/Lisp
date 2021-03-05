@@ -5,11 +5,17 @@ DESCRIPTION
 
 Everything is recorded, synthesized, designed and composed from scratch. Rendered as .wav then encoded with ogg/vorbis, using 96-160 kbps nominal bitrate depending on the file. Care have been taken to ensure that files play properly with no crossover distortion or clipping. Encoded to have the smallest filesize with little compromise in sound. Volumes and durations are kept in line with the standard sound set. Metadata have been removed.
 
-There are two sound files in the source that aren't being used. If they are, I couldn't figure out where. Maybe they are for future features. I didn't make alternatives for them:
+There are 5 sound files in the source that aren't being used. If they are, I couldn't figure out where. Maybe they are for future features. I didn't make alternatives for them:
 
-no-go.ogg
+other/no-go.ogg
 
-guitar.ogg
+other/guitar.ogg
+
+standard/OutOfBound.ogg
+
+standard/Select.ogg
+
+standard/WrapAround.ogg
 
 Some of the file names are changed to be more descriptive, as the current ones in the "other" folder seem to have the name from the library they are taken from. They are noted below.
 
