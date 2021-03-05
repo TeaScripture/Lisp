@@ -13,12 +13,11 @@ guitar.ogg
 
 LIST OF FILES AND NOTES
 -----------------------
-PracticeComplete.ogg 				:energy3.ogg
-
-PracticeWrong.ogg					  :failure2.ogg
+PracticeComplete.ogg                :energy3.ogg
+PracticeWrong.ogg                   :failure2.ogg
 Berserk.ogg
 Capture.ogg
-Castles.ogg					    		:I think castling can use a slightly different sound.
+Castles.ogg                         :I think castling can use a slightly different sound.
 Check.ogg
 Confirmation.ogg
 Defeat.ogg
@@ -29,11 +28,11 @@ LowTime.ogg
 Move.ogg
 NewChallenge.ogg
 NewPM.ogg
-PuzzleStormBonus.ogg				:ping.ogg
-PuzzleStormEnd.ogg					:gewonnen.ogg
-PuzzleStormWrong.ogg				:Error.ogg
+PuzzleStormBonus.ogg                :ping.ogg
+PuzzleStormEnd.ogg                  :gewonnen.ogg
+PuzzleStormWrong.ogg                :Error.ogg
 Tournament1st.ogg
 Tournament2nd.ogg
 Tournament3rd.ogg
-TournamentOther.ogg					:Don't know where this is used, but other sound sets had it.
+TournamentOther.ogg                 :Don't know where this is used, but other sound sets had it.
 Victory.ogg
