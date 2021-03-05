@@ -10,7 +10,6 @@ There are two sound files in the source that aren't being used. If they are, I c
 
 no-go.ogg
 guitar.ogg
---------------
 
 LIST OF FILES AND NOTES
 -----------------------
@@ -37,4 +36,3 @@ Tournament2nd.ogg
 Tournament3rd.ogg
 TournamentOther.ogg					:Don't know where this is used, but other sound sets had it.
 Victory.ogg
------------------------
