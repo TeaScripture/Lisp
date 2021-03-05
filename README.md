@@ -3,7 +3,7 @@
 DESCRIPTION
 -----------
 
-Everything is recorded, synthesized, designed and composed from scratch. Rendered as .wav then encoded with ogg/vorbis, using 96-160 nominal bitrate depending on the file. Care have been taken to ensure that files play properly with no crossover distortion or clipping. Encoded to have the smallest filesize with little compromise in sound. Volumes and durations are kept in line with the standard sound set. Metadata have been removed.
+Everything is recorded, synthesized, designed and composed from scratch. Rendered as .wav then encoded with ogg/vorbis, using 96-160 kbps nominal bitrate depending on the file. Care have been taken to ensure that files play properly with no crossover distortion or clipping. Encoded to have the smallest filesize with little compromise in sound. Volumes and durations are kept in line with the standard sound set. Metadata have been removed.
 
 There are two sound files in the source that aren't being used. If they are, I couldn't figure out where. Maybe they are for future features. I didn't make alternatives for them:
 
