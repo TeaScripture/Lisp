@@ -14,6 +14,7 @@ guitar.ogg
 LIST OF FILES AND NOTES
 -----------------------
 PracticeComplete.ogg 				:energy3.ogg
+
 PracticeWrong.ogg					  :failure2.ogg
 Berserk.ogg
 Capture.ogg
