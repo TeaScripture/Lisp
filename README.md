@@ -11,14 +11,10 @@ no-go.ogg
 
 guitar.ogg
 
-Some of the file names changed to be more descriptive, as the current ones in the "other" folder have the name from the library they are taken from. They are noted below.
+Some of the file names are changed to be more descriptive, as the current ones in the "other" folder seem to have the name from the library they are taken from. They are noted below.
 
 LIST OF FILES AND NOTES
 -----------------------
-
-PracticeComplete.ogg                :energy3.ogg
-
-PracticeWrong.ogg                   :failure2.ogg
 
 Berserk.ogg
 
@@ -45,6 +41,10 @@ Move.ogg
 NewChallenge.ogg
 
 NewPM.ogg
+
+PracticeComplete.ogg                :energy3.ogg
+
+PracticeWrong.ogg                   :failure2.ogg
 
 PuzzleStormBonus.ogg                :ping.ogg
 
